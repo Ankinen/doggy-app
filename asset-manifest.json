@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/doggy-app/static/css/main.56e6221f.css",
+    "main.js": "/doggy-app/static/js/main.ea5a7eb4.js",
+    "static/js/787.2e20f3a3.chunk.js": "/doggy-app/static/js/787.2e20f3a3.chunk.js",
+    "static/media/undraw_relaxing_walk.svg": "/doggy-app/static/media/undraw_relaxing_walk.1e2f7ff02a7a686495de3a7517852777.svg",
+    "index.html": "/doggy-app/index.html",
+    "main.56e6221f.css.map": "/doggy-app/static/css/main.56e6221f.css.map",
+    "main.ea5a7eb4.js.map": "/doggy-app/static/js/main.ea5a7eb4.js.map",
+    "787.2e20f3a3.chunk.js.map": "/doggy-app/static/js/787.2e20f3a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.ea5a7eb4.js"
+  ]
+}
